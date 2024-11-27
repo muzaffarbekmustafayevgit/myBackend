@@ -1,0 +1,19 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "this is my first backend with nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzaffarbekmustafayevgit/myBackend.git"
+  },
+  "author": "Muzaffarbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muzaffarbekmustafayevgit/myBackend/issues"
+  },
+  "homepage": "https://github.com/muzaffarbekmustafayevgit/myBackend#readme"
+}
