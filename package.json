@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/muzaffarbekmustafayevgit/myBackend/issues"
   },
-  "homepage": "https://github.com/muzaffarbekmustafayevgit/myBackend#readme"
+  "homepage": "https://github.com/muzaffarbekmustafayevgit/myBackend#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "http": "^0.0.1-security"
+  }
 }
