@@ -4,6 +4,9 @@
   "description": "this is my first backend with nodeJS",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+
+    "build": "echo 'No build step required'",
     "test": "npm start"
   },
   "repository": {
